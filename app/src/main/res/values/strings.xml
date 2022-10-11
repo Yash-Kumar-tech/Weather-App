@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="API_key">a23c8e9f8eccfdfca6d919fcf71b5f18</string>
+    <string name="credits">Weather data is provided by OpenWeather API</string>
+</resources>
